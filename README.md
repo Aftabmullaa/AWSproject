@@ -1,5 +1,6 @@
 # AWS Project
 Awstasks
+
 1.Different AWS task in file Set_B1 new1-complete.pdf :
 
 Task 1: Set up AWS Organizations for managing multiple AWS accounts.
@@ -22,6 +23,12 @@ Task 1: Launch two instances using as below:
   
 Task 2: Create one Company database, create an employee table having fields id, name, Contact-no, Address, Email-id, salary, Designation . Insert at least 5 records and fetch data 
     from using different-2 select query.
+
+3. Different AWS task in file 4.Task 7 Oct.pdf :
+
+   Task 1: Create a website and take backup of it. Launch a new instance using backup in another region.
+
+   Task 2: Launch one server and create one website. Add 8GB additional volume and mount volume.
 
 
 
