@@ -11,6 +11,13 @@ Task 4:  Company is using an application running on Apache with auto scaling ser
              without downtime.
              Maximum capacity of server- 4
              Minimum capacity of server- 2
+             
 2. Different AWS task in file 6. Task 4 Nov-complete.pdf :
+
+Task 1: Launch two instances using as below:
+- Manual scaling
+Task 2: Create one Company database, create an employee table having fields id, name, Contact-no, Address, Email-id, salary, Designation . Insert at least 5 records and fetch data 
+    from using different-2 select query.
+
 
 
