@@ -1,4 +1,4 @@
-# AWSproject
+# AWS Project
 Awstasks
 1.Different AWS task in file Set_B1 new1-complete.pdf :
 
